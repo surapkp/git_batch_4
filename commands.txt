@@ -1,9 +1,0 @@
-git init
-git status
-git log
-git add
-git pull
-git push
-git merge
-git branch
-git status
