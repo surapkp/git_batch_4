@@ -8,3 +8,8 @@ git log
 git log --oneline --pretty
 git config --global user.name
 git config --global user.email
+<<<<<<< HEAD
+=======
+git push origin master
+git pull origin master
+>>>>>>> master
