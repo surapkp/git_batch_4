@@ -8,6 +8,7 @@ git log
 git log --oneline --pretty
 git config --global user.name
 git config --global user.email
+git merge master
 <<<<<<< HEAD
 =======
 git push origin master
